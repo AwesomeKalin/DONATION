@@ -11,7 +11,7 @@ Bitcoin SV: awesomekalin55@relysia.com, or 17ZKgUdNXoDgWog4x4m2zUVNxTdp3FkRJD wi
 
 Litecoin: LNnEqbG5RHYJEWZB8fCJG7hDHVcR5cn3YC
 
-Ethereum (Plus any Layer 2 Addresses and Tokens): 0x50137d705e3200E58325148f2e9e68327b51946A
+Ethereum (Plus any Layer 2 Networks and Tokens): 0x50137d705e3200E58325148f2e9e68327b51946A
 
 Dogecoin: DTb5ptM4Ek32ZWfT98RdcarUNz1ezQQnpj
 
